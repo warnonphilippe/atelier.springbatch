@@ -1,0 +1,12 @@
+
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ı³ÓÆ8¦§ùŸŞ0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ì•é²8¨§ùŸŞ0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(Ê°×Òùÿÿÿÿ8ª§ùŸŞ0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(±éÂÒùÿÿÿÿ8¬§ùŸŞ0
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(öôÊ¡8¯§ùŸŞ0
+ƒ
+java:S1128"fRemove this unused import 'org.springframework.batch.core.configuration.annotation.JobBuilderFactory'.(Ùõ ü8¶§ùŸŞ0
+„
+java:S1128"gRemove this unused import 'org.springframework.batch.core.configuration.annotation.StepBuilderFactory'.(ÿÚƒ‹8¶§ùŸŞ0
+‹
+java:S1128"iRemove this unused import 'org.springframework.batch.support.transaction.ResourcelessTransactionManager'.(ŒÁ‹Õşÿÿÿÿ8·§ùŸŞ0

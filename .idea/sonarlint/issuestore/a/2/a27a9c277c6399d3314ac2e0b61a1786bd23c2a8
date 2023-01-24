@@ -1,0 +1,9 @@
+
+b	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(æÀú8ÉªÛ Ş0
+]
+java:S1854$"@Remove this useless assignment to local variable "jobExecution".(ÒõÅ8ªìÊ Ş0
+N
+java:S1481$"1Remove this unused "jobExecution" local variable.(ÒõÅ8°ìÊ Ş0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(÷á‘¹8éåíÖÛ0
+M
+java:S1068"+Remove this unused "enabled" private field.(ŸÓÛóüÿÿÿÿ8ÂğÌ Ş0
